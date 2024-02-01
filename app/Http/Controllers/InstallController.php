@@ -14,7 +14,7 @@ class InstallController extends Controller
     | Install Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

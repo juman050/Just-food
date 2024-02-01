@@ -33,7 +33,7 @@ class ThemeTableSeeder extends Seeder
                 'site_google_plus_link' => NULL,
                 'site_pinterest_link' => NULL,
                 'site_youtube_link' => NULL,
-                'site_copyright' => '@all rights reserved webexcel.xyz',
+                'site_copyright' => '@all rights reserved juman',
                 'site_status' => NULL,
                 'created_at' => date('Y-m-d H:i:s'),
                 'updated_at' => date('Y-m-d H:i:s')

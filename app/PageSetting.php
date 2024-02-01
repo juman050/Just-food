@@ -11,8 +11,8 @@ class PageSetting extends Model
     | Page setting model
     |---------------------------------------
     |
-    | Company : Webexcel
-    | Author : Emon Ahmed
+    | 
+    | Author : Juman
     | Version : 1.0.0
     |
     */

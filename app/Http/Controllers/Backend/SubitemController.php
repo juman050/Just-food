@@ -21,7 +21,7 @@ class SubitemController extends Controller
     | Sub item Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

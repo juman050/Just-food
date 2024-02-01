@@ -16,7 +16,7 @@ class MileageController extends Controller
     | Mileage Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

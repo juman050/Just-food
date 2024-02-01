@@ -11,8 +11,8 @@ class Gallery extends Model
     | Gallery model
     |----------------------------------------
     |
-    | Company : Webexcel
-    | Author : Emon Ahmed
+    | 
+    | Author : Juman
     | Version : 1.0.0
     |
     */

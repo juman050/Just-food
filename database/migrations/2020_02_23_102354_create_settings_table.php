@@ -35,7 +35,7 @@ class CreateSettingsTable extends Migration
             $table->string('site_google_plus_link',255)->nullable();
             $table->string('site_pinterest_link',255)->nullable();
             $table->string('site_youtube_link',255)->nullable();
-            $table->string('site_copyright',255)->default('@all rights reserved webexcel.xyz');
+            $table->string('site_copyright',255)->default('@all rights reserved juman');
             $table->tinyInteger('site_status')->nullable();
             $table->timestamps();
 

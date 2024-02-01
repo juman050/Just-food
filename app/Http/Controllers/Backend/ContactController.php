@@ -15,8 +15,8 @@ class ContactController extends Controller
     | Contact Controller
     |-------------------------------------
     |
-    | Company : Webexcel
-    | Author : Emon Ahmed
+    | 
+    | Author : Juman
     | Version : 1.0.0
     |
     */

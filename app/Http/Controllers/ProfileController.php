@@ -18,7 +18,7 @@ class ProfileController extends Controller
     | Profile Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

@@ -16,7 +16,7 @@ class PageSettingController extends Controller
     | Page setting Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

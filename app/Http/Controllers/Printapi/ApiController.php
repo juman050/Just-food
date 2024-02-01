@@ -17,7 +17,7 @@ class ApiController extends Controller
     | Print Api Controller
     |-------------------------------------
     |
-    | Company : Webexcel
+    | 
     | Author : Juman Muhammad
     | Version : 1.0.0
     |

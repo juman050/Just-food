@@ -11,8 +11,8 @@ class Mileage extends Model
     | Mileage model
     |-----------------------------------------
     |
-    | Company : Webexcel
-    | Author : Emon Ahmed
+    | 
+    | Author : Juman
     | Version : 1.0.0
     |
     */

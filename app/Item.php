@@ -11,8 +11,8 @@ class Item extends Model
     | Item model
     |-----------------------------------------
     |
-    | Company : Webexcel
-    | Author : Emon Ahmed
+    | 
+    | Author : Juman
     | Version : 1.0.0
     |
     */

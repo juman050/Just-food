@@ -3,7 +3,7 @@
 | JS for customer
 |--------------------------------------------------------------------------
 |
-| Author : Emon Ahmed
+| Author : Juman
 | Version : 1.0.0
 |
 */

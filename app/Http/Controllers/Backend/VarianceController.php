@@ -19,7 +19,7 @@ class VarianceController extends Controller
     | Variance Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

@@ -17,7 +17,7 @@ class RestaurantOpenCloseController extends Controller
     | Restaurant Open Close Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

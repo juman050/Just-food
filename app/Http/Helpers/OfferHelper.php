@@ -13,8 +13,8 @@ class OfferHelper{
     | Offer Helper
     |-----------------------------------------
     |
-    | Company : Webexcel
-    | Author : Emon Ahmed
+    | 
+    | Author : Juman
     | Helper : Offer Helper for Just-food Website
     | Version : 1.0.0
     |

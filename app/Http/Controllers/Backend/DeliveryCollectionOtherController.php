@@ -17,8 +17,8 @@ class DeliveryCollectionOtherController extends Controller
     | Delivery & Collection & other Controller
     |-------------------------------------
     |
-    | Company : Webexcel
-    | Author : Emon Ahmed
+    | 
+    | Author : Juman
     | Version : 1.0.0
     |
     */

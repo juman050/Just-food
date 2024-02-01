@@ -18,7 +18,7 @@ class StoreSettingController extends Controller
     | Store settings Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

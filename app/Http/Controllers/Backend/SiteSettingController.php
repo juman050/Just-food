@@ -17,7 +17,7 @@ class SiteSettingController extends Controller
     | Site settings Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

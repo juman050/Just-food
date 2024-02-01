@@ -3,7 +3,7 @@
 | JS for postcode
 |--------------------------------------------------------------------------
 |
-| Author : Emon Ahmed
+| Author : Juman
 | Version : 1.0.0
 |
 */

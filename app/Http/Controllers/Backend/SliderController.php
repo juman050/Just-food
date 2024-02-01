@@ -16,7 +16,7 @@ class SliderController extends Controller
     | Slider Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */

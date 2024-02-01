@@ -16,7 +16,7 @@ class PaymentSettingController extends Controller
     | Payment settings Controller
     |--------------------------------------------------------------------------
     |
-    | Author : Emon Ahmed
+    | Author : Juman
     | Version : 1.0.0
     |
     */
