@@ -1,0 +1,15 @@
+[2021-04-07 05:04:09] local.EMERGENCY: File:/home/webeetjp/justfood.webexcel.xyz/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.phpLine:191Message:Failed to authenticate on SMTP server with username "company.justfood@gmail.com" using 3 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "534", with message "534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbt
+534-5.7.14 zn6dVVNuuUmzKJ7IDmHEaxqs_1zRk-dKeTJdxqgLH_YNeAEkzc8L-mjx86Vx9_ZGzkh9N
+534-5.7.14 ilsvPUdBvZx3yidxd2-xXKRX-nWw0OoKZ6eQ1jGM2hCYiJrMeHkVUA5Ncan7B8pP>
+534-5.7.14 Please log in via your web browser and then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 gb22sm11751212ejc.78 - gsmtp
+". Authenticator PLAIN returned Expected response code 235 but got code "534", with message "534-5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbs
+534-5.7.14 15R7CU5jbUR2dLXPEkwQRWvhJvgSO86Vn5VvWr7uBSsUDIs5xF5JtJ6OaodYax-hDaH5C
+534-5.7.14 6rsENyS-1Ai6R-Tz388dQr93lGwAHS1SqmasjYfW3loRlfYQbimMuA59CR8ES5AG>
+534-5.7.14 Please log in via your web browser and then try again.
+534-5.7.14  Learn more at
+534 5.7.14  https://support.google.com/mail/answer/78754 gb22sm11751212ejc.78 - gsmtp
+". Authenticator XOAUTH2 returned Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials gb22sm11751212ejc.78 - gsmtp
+".  

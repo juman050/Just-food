@@ -1,0 +1,16 @@
+/**
+ * ----------------------------------------------
+ * Font face
+ * 
+ */
+$balooTammudu: 'Baloo Tammudu', cursive;
+@include font-face($balooTammudu, normal, 400, '../fonts/BalooTammudu-Regular');
+
+
+// opensans
+$opensans: 'Open Sans', sans-serif;
+@include font-face($opensans, normal, 300, '../fonts/OpenSans-Light');
+@include font-face($opensans, normal, 400, '../fonts/OpenSans-Regular');
+@include font-face($opensans, normal, 600, '../fonts/OpenSans-SemiBold');
+@include font-face($opensans, normal, 700, '../fonts/OpenSans-Bold');
+@include font-face($opensans, normal, 800, '../fonts/OpenSans-ExtraBold');
